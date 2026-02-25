@@ -11,3 +11,5 @@ try {
 }
 
 dbConnection();
+
+export {dbConnection};
